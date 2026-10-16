@@ -1,0 +1,1372 @@
+{
+  "region": "Anadarko Basin (Oklahoma and Texas Panhandle)",
+  "bbox": [
+    -100.5,
+    34.5,
+    -97.0,
+    36.8
+  ],
+  "window": [
+    "2026-06-01",
+    "2026-09-01"
+  ],
+  "n_overpasses": 119,
+  "n_usable": 64,
+  "n_candidates": 6,
+  "n_inverted_candidates": 9,
+  "overpasses": [
+    {
+      "day": "2026-06-01",
+      "time_utc": "2026-06-01T20:13:41.378000Z",
+      "orbit": "44739",
+      "n_qa": 867,
+      "qa_pass_fraction": 0.815,
+      "threshold_ppb": 28.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-02",
+      "time_utc": "2026-06-02T19:55:07.600000Z",
+      "orbit": "44753",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-03",
+      "time_utc": "2026-06-03T19:04:13.676000Z",
+      "orbit": "44767",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-04",
+      "time_utc": "2026-06-04T19:17:22.332000Z",
+      "orbit": "44781",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-04",
+      "time_utc": "2026-06-04T20:26:45.797000Z",
+      "orbit": "44782",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-05",
+      "time_utc": "2026-06-05T20:07:48.258000Z",
+      "orbit": "44796",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-06",
+      "time_utc": "2026-06-06T20:20:08.075000Z",
+      "orbit": "44810",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-07",
+      "time_utc": "2026-06-07T20:01:17.615000Z",
+      "orbit": "44824",
+      "n_qa": 110,
+      "qa_pass_fraction": 0.447,
+      "threshold_ppb": 17.7,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -100.3203,
+          "lat": 34.6534
+        }
+      ]
+    },
+    {
+      "day": "2026-06-08",
+      "time_utc": "2026-06-08T19:42:29.794000Z",
+      "orbit": "44838",
+      "n_qa": 1565,
+      "qa_pass_fraction": 0.892,
+      "threshold_ppb": 33.6,
+      "n_candidates": 2,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-09",
+      "time_utc": "2026-06-09T19:23:55.053000Z",
+      "orbit": "44852",
+      "n_qa": 361,
+      "qa_pass_fraction": 0.59,
+      "threshold_ppb": 22.6,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-09",
+      "time_utc": "2026-06-09T20:33:22.478000Z",
+      "orbit": "44853",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-10",
+      "time_utc": "2026-06-10T19:05:22.111000Z",
+      "orbit": "44866",
+      "n_qa": 355,
+      "qa_pass_fraction": 0.58,
+      "threshold_ppb": 35.8,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -97.0618,
+          "lat": 34.8699
+        }
+      ]
+    },
+    {
+      "day": "2026-06-10",
+      "time_utc": "2026-06-10T20:45:23.933000Z",
+      "orbit": "44867",
+      "n_qa": 1,
+      "qa_pass_fraction": 0.111,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-11",
+      "time_utc": "2026-06-11T20:26:51.231000Z",
+      "orbit": "44881",
+      "n_qa": 85,
+      "qa_pass_fraction": 0.746,
+      "threshold_ppb": 12.4,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-12",
+      "time_utc": "2026-06-12T20:07:39.168000Z",
+      "orbit": "44895",
+      "n_qa": 32,
+      "qa_pass_fraction": 0.196,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-13",
+      "time_utc": "2026-06-13T19:48:54.062000Z",
+      "orbit": "44909",
+      "n_qa": 575,
+      "qa_pass_fraction": 0.595,
+      "threshold_ppb": 25.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-14",
+      "time_utc": "2026-06-14T19:30:21.112000Z",
+      "orbit": "44923",
+      "n_qa": 10,
+      "qa_pass_fraction": 0.12,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-14",
+      "time_utc": "2026-06-14T20:39:57.177000Z",
+      "orbit": "44924",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-15",
+      "time_utc": "2026-06-15T19:11:40.963000Z",
+      "orbit": "44937",
+      "n_qa": 153,
+      "qa_pass_fraction": 0.376,
+      "threshold_ppb": 32.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-15",
+      "time_utc": "2026-06-15T20:20:57.348000Z",
+      "orbit": "44938",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-16",
+      "time_utc": "2026-06-16T20:33:06.598000Z",
+      "orbit": "44952",
+      "n_qa": 32,
+      "qa_pass_fraction": 0.193,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-17",
+      "time_utc": "2026-06-17T20:14:10.731000Z",
+      "orbit": "44966",
+      "n_qa": 1063,
+      "qa_pass_fraction": 0.884,
+      "threshold_ppb": 24.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-18",
+      "time_utc": "2026-06-18T19:55:08.502000Z",
+      "orbit": "44980",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-19",
+      "time_utc": "2026-06-19T19:36:39.031000Z",
+      "orbit": "44994",
+      "n_qa": 135,
+      "qa_pass_fraction": 0.435,
+      "threshold_ppb": 31.0,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-20",
+      "time_utc": "2026-06-20T19:18:10.279000Z",
+      "orbit": "45008",
+      "n_qa": 113,
+      "qa_pass_fraction": 0.436,
+      "threshold_ppb": 39.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-20",
+      "time_utc": "2026-06-20T20:27:26.904000Z",
+      "orbit": "45009",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-21",
+      "time_utc": "2026-06-21T20:39:37.830000Z",
+      "orbit": "45023",
+      "n_qa": 53,
+      "qa_pass_fraction": 0.495,
+      "threshold_ppb": 18.4,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-22",
+      "time_utc": "2026-06-22T20:20:38.482000Z",
+      "orbit": "45037",
+      "n_qa": 145,
+      "qa_pass_fraction": 0.395,
+      "threshold_ppb": 34.1,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -97.2431,
+          "lat": 35.5315
+        }
+      ]
+    },
+    {
+      "day": "2026-06-23",
+      "time_utc": "2026-06-23T20:02:00.252000Z",
+      "orbit": "45051",
+      "n_qa": 90,
+      "qa_pass_fraction": 0.703,
+      "threshold_ppb": 31.9,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-24",
+      "time_utc": "2026-06-24T19:42:57.542000Z",
+      "orbit": "45065",
+      "n_qa": 213,
+      "qa_pass_fraction": 0.24,
+      "threshold_ppb": 31.4,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-25",
+      "time_utc": "2026-06-25T19:24:18.589000Z",
+      "orbit": "45079",
+      "n_qa": 25,
+      "qa_pass_fraction": 0.187,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-25",
+      "time_utc": "2026-06-25T20:33:53.453000Z",
+      "orbit": "45080",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-26",
+      "time_utc": "2026-06-26T19:05:46.238000Z",
+      "orbit": "45093",
+      "n_qa": 15,
+      "qa_pass_fraction": 0.081,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-26",
+      "time_utc": "2026-06-26T20:45:51.420000Z",
+      "orbit": "45094",
+      "n_qa": 4,
+      "qa_pass_fraction": 0.444,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-27",
+      "time_utc": "2026-06-27T20:27:06.830000Z",
+      "orbit": "45108",
+      "n_qa": 398,
+      "qa_pass_fraction": 0.696,
+      "threshold_ppb": 31.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-28",
+      "time_utc": "2026-06-28T20:08:10.421000Z",
+      "orbit": "45122",
+      "n_qa": 432,
+      "qa_pass_fraction": 0.689,
+      "threshold_ppb": 32.1,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-29",
+      "time_utc": "2026-06-29T19:49:14.911000Z",
+      "orbit": "45136",
+      "n_qa": 316,
+      "qa_pass_fraction": 0.616,
+      "threshold_ppb": 42.5,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -97.1584,
+          "lat": 35.7716
+        }
+      ]
+    },
+    {
+      "day": "2026-06-30",
+      "time_utc": "2026-06-30T19:30:35.960000Z",
+      "orbit": "45150",
+      "n_qa": 684,
+      "qa_pass_fraction": 0.836,
+      "threshold_ppb": 32.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-06-30",
+      "time_utc": "2026-06-30T20:40:17.544000Z",
+      "orbit": "45151",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-01",
+      "time_utc": "2026-07-01T19:12:35.048000Z",
+      "orbit": "45164",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-01",
+      "time_utc": "2026-07-01T20:21:16.034000Z",
+      "orbit": "45165",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-02",
+      "time_utc": "2026-07-02T20:02:13.924000Z",
+      "orbit": "45179",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-03",
+      "time_utc": "2026-07-03T20:14:38.052000Z",
+      "orbit": "45193",
+      "n_qa": 270,
+      "qa_pass_fraction": 0.66,
+      "threshold_ppb": 27.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-04",
+      "time_utc": "2026-07-04T19:55:44.465000Z",
+      "orbit": "45207",
+      "n_qa": 693,
+      "qa_pass_fraction": 0.568,
+      "threshold_ppb": 43.1,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-05",
+      "time_utc": "2026-07-05T19:37:05.756000Z",
+      "orbit": "45221",
+      "n_qa": 752,
+      "qa_pass_fraction": 0.744,
+      "threshold_ppb": 42.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-06",
+      "time_utc": "2026-07-06T19:18:27.407000Z",
+      "orbit": "45235",
+      "n_qa": 499,
+      "qa_pass_fraction": 0.694,
+      "threshold_ppb": 27.4,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-06",
+      "time_utc": "2026-07-06T20:27:35.992000Z",
+      "orbit": "45236",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-07",
+      "time_utc": "2026-07-07T20:40:05.878000Z",
+      "orbit": "45250",
+      "n_qa": 18,
+      "qa_pass_fraction": 0.2,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-08",
+      "time_utc": "2026-07-08T20:21:04.007000Z",
+      "orbit": "45264",
+      "n_qa": 293,
+      "qa_pass_fraction": 0.561,
+      "threshold_ppb": 23.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-09",
+      "time_utc": "2026-07-09T20:02:07.858000Z",
+      "orbit": "45278",
+      "n_qa": 496,
+      "qa_pass_fraction": 0.703,
+      "threshold_ppb": 32.3,
+      "n_candidates": 1,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-10",
+      "time_utc": "2026-07-10T19:43:23.270000Z",
+      "orbit": "45292",
+      "n_qa": 1026,
+      "qa_pass_fraction": 0.815,
+      "threshold_ppb": 35.3,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-11",
+      "time_utc": "2026-07-11T19:24:44.201000Z",
+      "orbit": "45306",
+      "n_qa": 254,
+      "qa_pass_fraction": 0.504,
+      "threshold_ppb": 31.9,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-11",
+      "time_utc": "2026-07-11T20:33:52.306000Z",
+      "orbit": "45307",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-12",
+      "time_utc": "2026-07-12T19:06:16.890000Z",
+      "orbit": "45320",
+      "n_qa": 11,
+      "qa_pass_fraction": 0.098,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-12",
+      "time_utc": "2026-07-12T20:46:17.632000Z",
+      "orbit": "45321",
+      "n_qa": 5,
+      "qa_pass_fraction": 0.5,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-13",
+      "time_utc": "2026-07-13T20:27:39.040000Z",
+      "orbit": "45335",
+      "n_qa": 86,
+      "qa_pass_fraction": 0.754,
+      "threshold_ppb": 22.9,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-14",
+      "time_utc": "2026-07-14T20:08:28.169000Z",
+      "orbit": "45349",
+      "n_qa": 26,
+      "qa_pass_fraction": 0.464,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-15",
+      "time_utc": "2026-07-15T19:49:41.657000Z",
+      "orbit": "45363",
+      "n_qa": 37,
+      "qa_pass_fraction": 0.199,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-16",
+      "time_utc": "2026-07-16T19:31:10.986000Z",
+      "orbit": "45377",
+      "n_qa": 1,
+      "qa_pass_fraction": 0.062,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-16",
+      "time_utc": "2026-07-16T20:40:06.492000Z",
+      "orbit": "45378",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-17",
+      "time_utc": "2026-07-17T18:39:34.121000Z",
+      "orbit": "45391",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-17",
+      "time_utc": "2026-07-17T20:21:04.141000Z",
+      "orbit": "45392",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-18",
+      "time_utc": "2026-07-18T20:02:00.351000Z",
+      "orbit": "45406",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-19",
+      "time_utc": "2026-07-19T20:14:58.797000Z",
+      "orbit": "45420",
+      "n_qa": 30,
+      "qa_pass_fraction": 0.441,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-20",
+      "time_utc": "2026-07-20T19:56:04.967000Z",
+      "orbit": "45434",
+      "n_qa": 310,
+      "qa_pass_fraction": 0.552,
+      "threshold_ppb": 45.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-21",
+      "time_utc": "2026-07-21T19:37:21.498000Z",
+      "orbit": "45448",
+      "n_qa": 247,
+      "qa_pass_fraction": 0.412,
+      "threshold_ppb": 42.3,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-22",
+      "time_utc": "2026-07-22T19:18:50.228000Z",
+      "orbit": "45462",
+      "n_qa": 943,
+      "qa_pass_fraction": 0.935,
+      "threshold_ppb": 25.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-22",
+      "time_utc": "2026-07-22T20:27:16.215000Z",
+      "orbit": "45463",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-23",
+      "time_utc": "2026-07-23T20:40:21.501000Z",
+      "orbit": "45477",
+      "n_qa": 14,
+      "qa_pass_fraction": 0.333,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-24",
+      "time_utc": "2026-07-24T20:21:29.954000Z",
+      "orbit": "45491",
+      "n_qa": 14,
+      "qa_pass_fraction": 0.132,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-25",
+      "time_utc": "2026-07-25T20:02:32.888000Z",
+      "orbit": "45505",
+      "n_qa": 875,
+      "qa_pass_fraction": 0.721,
+      "threshold_ppb": 36.9,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -97.2204,
+          "lat": 34.5959
+        }
+      ]
+    },
+    {
+      "day": "2026-07-26",
+      "time_utc": "2026-07-26T19:43:46.622000Z",
+      "orbit": "45519",
+      "n_qa": 1749,
+      "qa_pass_fraction": 0.941,
+      "threshold_ppb": 35.6,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-27",
+      "time_utc": "2026-07-27T19:25:08.636000Z",
+      "orbit": "45533",
+      "n_qa": 1217,
+      "qa_pass_fraction": 0.964,
+      "threshold_ppb": 30.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-27",
+      "time_utc": "2026-07-27T20:33:25.142000Z",
+      "orbit": "45534",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-28",
+      "time_utc": "2026-07-28T19:06:33.251000Z",
+      "orbit": "45547",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-28",
+      "time_utc": "2026-07-28T20:46:42.874000Z",
+      "orbit": "45548",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-29",
+      "time_utc": "2026-07-29T20:27:50.852000Z",
+      "orbit": "45562",
+      "n_qa": 42,
+      "qa_pass_fraction": 0.243,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-30",
+      "time_utc": "2026-07-30T20:08:57.870000Z",
+      "orbit": "45576",
+      "n_qa": 418,
+      "qa_pass_fraction": 0.491,
+      "threshold_ppb": 29.1,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-07-31",
+      "time_utc": "2026-07-31T19:50:08.729000Z",
+      "orbit": "45590",
+      "n_qa": 723,
+      "qa_pass_fraction": 0.689,
+      "threshold_ppb": 39.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-01",
+      "time_utc": "2026-08-01T19:31:27.986000Z",
+      "orbit": "45604",
+      "n_qa": 1475,
+      "qa_pass_fraction": 0.983,
+      "threshold_ppb": 36.6,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-01",
+      "time_utc": "2026-08-01T20:39:31.293000Z",
+      "orbit": "45605",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-02",
+      "time_utc": "2026-08-02T19:12:54.562000Z",
+      "orbit": "45618",
+      "n_qa": 757,
+      "qa_pass_fraction": 0.897,
+      "threshold_ppb": 38.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-02",
+      "time_utc": "2026-08-02T20:20:27.150000Z",
+      "orbit": "45619",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-03",
+      "time_utc": "2026-08-03T20:34:18.482000Z",
+      "orbit": "45633",
+      "n_qa": 137,
+      "qa_pass_fraction": 0.424,
+      "threshold_ppb": 32.0,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-04",
+      "time_utc": "2026-08-04T20:15:22.861000Z",
+      "orbit": "45647",
+      "n_qa": 506,
+      "qa_pass_fraction": 0.705,
+      "threshold_ppb": 28.0,
+      "n_candidates": 1,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-05",
+      "time_utc": "2026-08-05T19:56:30.602000Z",
+      "orbit": "45661",
+      "n_qa": 446,
+      "qa_pass_fraction": 0.656,
+      "threshold_ppb": 22.4,
+      "n_candidates": 1,
+      "n_inverted": 2,
+      "inverted": [
+        {
+          "lon": -99.3208,
+          "lat": 35.4626
+        },
+        {
+          "lon": -99.4208,
+          "lat": 35.2959
+        }
+      ]
+    },
+    {
+      "day": "2026-08-06",
+      "time_utc": "2026-08-06T19:37:44.706000Z",
+      "orbit": "45675",
+      "n_qa": 84,
+      "qa_pass_fraction": 0.333,
+      "threshold_ppb": 46.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-07",
+      "time_utc": "2026-08-07T19:19:21.490000Z",
+      "orbit": "45689",
+      "n_qa": 13,
+      "qa_pass_fraction": 0.146,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-07",
+      "time_utc": "2026-08-07T20:26:31.398000Z",
+      "orbit": "45690",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-08",
+      "time_utc": "2026-08-08T20:40:50.376000Z",
+      "orbit": "45704",
+      "n_qa": 18,
+      "qa_pass_fraction": 0.189,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-09",
+      "time_utc": "2026-08-09T20:21:48.761000Z",
+      "orbit": "45718",
+      "n_qa": 532,
+      "qa_pass_fraction": 0.547,
+      "threshold_ppb": 22.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-10",
+      "time_utc": "2026-08-10T20:03:00.585000Z",
+      "orbit": "45732",
+      "n_qa": 1011,
+      "qa_pass_fraction": 0.958,
+      "threshold_ppb": 30.9,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -98.0241,
+          "lat": 35.5391
+        }
+      ]
+    },
+    {
+      "day": "2026-08-11",
+      "time_utc": "2026-08-11T19:44:09.893000Z",
+      "orbit": "45746",
+      "n_qa": 203,
+      "qa_pass_fraction": 0.309,
+      "threshold_ppb": 35.9,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-12",
+      "time_utc": "2026-08-12T19:25:34.076000Z",
+      "orbit": "45760",
+      "n_qa": 273,
+      "qa_pass_fraction": 0.383,
+      "threshold_ppb": 41.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-13",
+      "time_utc": "2026-08-13T19:06:56.458000Z",
+      "orbit": "45774",
+      "n_qa": 354,
+      "qa_pass_fraction": 0.682,
+      "threshold_ppb": 36.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-13",
+      "time_utc": "2026-08-13T20:47:02.482000Z",
+      "orbit": "45775",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-14",
+      "time_utc": "2026-08-14T20:28:16.353000Z",
+      "orbit": "45789",
+      "n_qa": 83,
+      "qa_pass_fraction": 0.371,
+      "threshold_ppb": 19.3,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-15",
+      "time_utc": "2026-08-15T20:09:17.743000Z",
+      "orbit": "45803",
+      "n_qa": 606,
+      "qa_pass_fraction": 0.702,
+      "threshold_ppb": 22.3,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-16",
+      "time_utc": "2026-08-16T19:50:23.857000Z",
+      "orbit": "45817",
+      "n_qa": 74,
+      "qa_pass_fraction": 0.247,
+      "threshold_ppb": 37.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-17",
+      "time_utc": "2026-08-17T19:31:49.971000Z",
+      "orbit": "45831",
+      "n_qa": 487,
+      "qa_pass_fraction": 0.673,
+      "threshold_ppb": 35.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-17",
+      "time_utc": "2026-08-17T20:38:34.441000Z",
+      "orbit": "45832",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-18",
+      "time_utc": "2026-08-18T19:13:15.098000Z",
+      "orbit": "45845",
+      "n_qa": 397,
+      "qa_pass_fraction": 0.585,
+      "threshold_ppb": 32.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-18",
+      "time_utc": "2026-08-18T20:19:29.209000Z",
+      "orbit": "45846",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-19",
+      "time_utc": "2026-08-19T20:34:36.081000Z",
+      "orbit": "45860",
+      "n_qa": 35,
+      "qa_pass_fraction": 0.183,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-20",
+      "time_utc": "2026-08-20T20:15:42.642000Z",
+      "orbit": "45874",
+      "n_qa": 333,
+      "qa_pass_fraction": 0.559,
+      "threshold_ppb": 37.0,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-21",
+      "time_utc": "2026-08-21T19:56:51.002000Z",
+      "orbit": "45888",
+      "n_qa": 961,
+      "qa_pass_fraction": 0.785,
+      "threshold_ppb": 32.9,
+      "n_candidates": 1,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-22",
+      "time_utc": "2026-08-22T19:38:12.683000Z",
+      "orbit": "45902",
+      "n_qa": 203,
+      "qa_pass_fraction": 0.546,
+      "threshold_ppb": 41.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-23",
+      "time_utc": "2026-08-23T19:19:29.323000Z",
+      "orbit": "45916",
+      "n_qa": 109,
+      "qa_pass_fraction": 0.292,
+      "threshold_ppb": 37.0,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-23",
+      "time_utc": "2026-08-23T20:25:27.234000Z",
+      "orbit": "45917",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-24",
+      "time_utc": "2026-08-24T20:41:09.270000Z",
+      "orbit": "45931",
+      "n_qa": 106,
+      "qa_pass_fraction": 0.517,
+      "threshold_ppb": 17.5,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-25",
+      "time_utc": "2026-08-25T20:22:10.114000Z",
+      "orbit": "45945",
+      "n_qa": 73,
+      "qa_pass_fraction": 0.365,
+      "threshold_ppb": 18.8,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-26",
+      "time_utc": "2026-08-26T20:03:12.239000Z",
+      "orbit": "45959",
+      "n_qa": 251,
+      "qa_pass_fraction": 0.413,
+      "threshold_ppb": 44.0,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-27",
+      "time_utc": "2026-08-27T19:44:33.923000Z",
+      "orbit": "45973",
+      "n_qa": 477,
+      "qa_pass_fraction": 0.827,
+      "threshold_ppb": 35.2,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-28",
+      "time_utc": "2026-08-28T19:25:48.609000Z",
+      "orbit": "45987",
+      "n_qa": 477,
+      "qa_pass_fraction": 0.539,
+      "threshold_ppb": 44.7,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-28",
+      "time_utc": "2026-08-28T20:31:24.921000Z",
+      "orbit": "45988",
+      "n_qa": 0,
+      "qa_pass_fraction": 0.0,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-29",
+      "time_utc": "2026-08-29T19:07:20.858000Z",
+      "orbit": "46001",
+      "n_qa": 168,
+      "qa_pass_fraction": 0.556,
+      "threshold_ppb": 26.9,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-29",
+      "time_utc": "2026-08-29T20:47:23.523000Z",
+      "orbit": "46002",
+      "n_qa": 12,
+      "qa_pass_fraction": 0.6,
+      "threshold_ppb": null,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    },
+    {
+      "day": "2026-08-30",
+      "time_utc": "2026-08-30T20:28:33.755000Z",
+      "orbit": "46016",
+      "n_qa": 422,
+      "qa_pass_fraction": 0.752,
+      "threshold_ppb": 18.8,
+      "n_candidates": 0,
+      "n_inverted": 1,
+      "inverted": [
+        {
+          "lon": -100.3726,
+          "lat": 34.6794
+        }
+      ]
+    },
+    {
+      "day": "2026-08-31",
+      "time_utc": "2026-08-31T20:09:44.650000Z",
+      "orbit": "46030",
+      "n_qa": 143,
+      "qa_pass_fraction": 0.399,
+      "threshold_ppb": 20.1,
+      "n_candidates": 0,
+      "n_inverted": 0,
+      "inverted": []
+    }
+  ]
+}

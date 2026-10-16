@@ -1,0 +1,87 @@
+{
+  "flare_data": "Flaring Monitor (Colorado School of Mines), VIIRS Nightfire 2019-2021",
+  "n_flare_sites": 19793,
+  "grid": {
+    "rho": NaN,
+    "p_naive": NaN,
+    "p_permutation": 1.0,
+    "n_cells": 1,
+    "null_rho_sd": NaN,
+    "scatter": [
+      [
+        2.869,
+        2.2
+      ]
+    ],
+    "moran_geary": {
+      "n_cells": 1,
+      "sufficient_data": false
+    }
+  },
+  "proximity": {
+    "n_flare_sites": 9896,
+    "n_detections": 2,
+    "tolerance_km": 5.0,
+    "median_km_detections": 5.14,
+    "frac_within_tol_detections": 0.5,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 15.84,
+      "frac_within_tol_null": 0.218,
+      "enrichment": 2.3,
+      "enrichment_ci_days": [
+        0.0,
+        4.59
+      ],
+      "mannwhitney_p": 0.0958
+    },
+    "clustered_null": {
+      "method": "kernel density of 3246 wells, h = 8 km",
+      "median_km_null": 1.94,
+      "frac_within_tol_null": 0.763,
+      "enrichment": 0.66,
+      "enrichment_ci_days": [
+        0.0,
+        1.31
+      ],
+      "mannwhitney_p": 0.8552
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.6,
+      "16": 0.82
+    }
+  },
+  "proximity_noise_clusters": {
+    "n_flare_sites": 9896,
+    "n_detections": 36,
+    "tolerance_km": 5.0,
+    "median_km_detections": 16.82,
+    "frac_within_tol_detections": 0.028,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 15.84,
+      "frac_within_tol_null": 0.218,
+      "enrichment": 0.13,
+      "enrichment_ci_days": [
+        0.0,
+        0.38
+      ],
+      "mannwhitney_p": 0.4711
+    },
+    "clustered_null": {
+      "method": "kernel density of 3246 wells, h = 8 km",
+      "median_km_null": 1.94,
+      "frac_within_tol_null": 0.763,
+      "enrichment": 0.04,
+      "enrichment_ci_days": [
+        0.0,
+        0.11
+      ],
+      "mannwhitney_p": 1.0
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.03,
+      "16": 0.05
+    }
+  }
+}

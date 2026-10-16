@@ -1,0 +1,85 @@
+{
+  "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+  "reference_end": "2026-09-01",
+  "n_detections": 0,
+  "n_cm_plumes": 337,
+  "n_cm_in_window": 2,
+  "tolerance_km": 10.0,
+  "median_km_detections": null,
+  "frac_within_tol_detections": null,
+  "n_within_tol": 0,
+  "uniform_null": {
+    "method": "uniform in bounding box",
+    "median_km_null": 10.71,
+    "frac_within_tol_null": 0.473,
+    "enrichment": NaN,
+    "enrichment_ci_days": null
+  },
+  "clustered_null": {
+    "method": "uniform in bounding box (fewer than 5 infrastructure points)",
+    "median_km_null": 10.71,
+    "frac_within_tol_null": 0.473,
+    "enrichment": NaN,
+    "enrichment_ci_days": null
+  },
+  "clustered_enrichment_by_bandwidth_km": {
+    "4": NaN,
+    "16": NaN
+  },
+  "detections": [],
+  "farthest": null,
+  "cm_emission_kg_hr": {
+    "min": 11,
+    "median": 234,
+    "max": 3896
+  },
+  "noise_clusters": {
+    "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+    "reference_end": null,
+    "n_detections": 4,
+    "n_cm_plumes": 337,
+    "n_cm_in_window": null,
+    "tolerance_km": 10.0,
+    "median_km_detections": 8.52,
+    "frac_within_tol_detections": 0.75,
+    "n_within_tol": 3,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 10.71,
+      "frac_within_tol_null": 0.473,
+      "enrichment": 1.59,
+      "enrichment_ci_days": [
+        1.59,
+        1.59
+      ]
+    },
+    "clustered_null": {
+      "method": "uniform in bounding box (fewer than 5 infrastructure points)",
+      "median_km_null": 10.71,
+      "frac_within_tol_null": 0.473,
+      "enrichment": 1.59,
+      "enrichment_ci_days": [
+        1.59,
+        1.59
+      ]
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 1.59,
+      "16": 1.59
+    },
+    "farthest": {
+      "lon": -104.1109,
+      "lat": 40.083,
+      "day": "2026-07-14",
+      "sigma": null,
+      "q_kg_hr": 0,
+      "nearest_cm_km": 20.2,
+      "within_tol": false
+    },
+    "cm_emission_kg_hr": {
+      "min": 11,
+      "median": 234,
+      "max": 3896
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.coverage
+.DS_Store
+
+data/
+outputs/*.log
+Welcome file*.md
+web/

@@ -1,0 +1,370 @@
+{
+  "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+  "reference_end": "2026-09-01",
+  "n_detections": 30,
+  "n_cm_plumes": 10066,
+  "n_cm_in_window": 21,
+  "tolerance_km": 10.0,
+  "median_km_detections": 4.43,
+  "frac_within_tol_detections": 0.7,
+  "n_within_tol": 21,
+  "uniform_null": {
+    "method": "uniform in bounding box",
+    "median_km_null": 9.18,
+    "frac_within_tol_null": 0.514,
+    "enrichment": 1.36,
+    "enrichment_ci_days": [
+      0.94,
+      1.75
+    ]
+  },
+  "clustered_null": {
+    "method": "kernel density of 52546 wells, h = 8 km",
+    "median_km_null": 2.44,
+    "frac_within_tol_null": 0.862,
+    "enrichment": 0.81,
+    "enrichment_ci_days": [
+      0.56,
+      1.04
+    ]
+  },
+  "clustered_enrichment_by_bandwidth_km": {
+    "4": 0.78,
+    "16": 0.85
+  },
+  "detections": [
+    {
+      "lon": -104.1887,
+      "lat": 32.4921,
+      "day": "2024-06-01",
+      "sigma": 3.2,
+      "q_kg_hr": 46421,
+      "nearest_cm_km": 0.3,
+      "within_tol": true
+    },
+    {
+      "lon": -103.4664,
+      "lat": 31.0553,
+      "day": "2024-06-10",
+      "sigma": 4.3,
+      "q_kg_hr": 17865,
+      "nearest_cm_km": 2.0,
+      "within_tol": true
+    },
+    {
+      "lon": -103.3722,
+      "lat": 31.1258,
+      "day": "2024-06-10",
+      "sigma": 3.9,
+      "q_kg_hr": 15136,
+      "nearest_cm_km": 5.1,
+      "within_tol": true
+    },
+    {
+      "lon": -103.571,
+      "lat": 32.3637,
+      "day": "2024-06-12",
+      "sigma": 3.3,
+      "q_kg_hr": 18702,
+      "nearest_cm_km": 2.0,
+      "within_tol": true
+    },
+    {
+      "lon": -102.371,
+      "lat": 31.7054,
+      "day": "2024-06-12",
+      "sigma": 3.2,
+      "q_kg_hr": 18262,
+      "nearest_cm_km": 8.5,
+      "within_tol": true
+    },
+    {
+      "lon": -102.0615,
+      "lat": 32.4326,
+      "day": "2024-06-23",
+      "sigma": 4.1,
+      "q_kg_hr": 23432,
+      "nearest_cm_km": 1.5,
+      "within_tol": true
+    },
+    {
+      "lon": -101.9615,
+      "lat": 32.1598,
+      "day": "2024-06-23",
+      "sigma": 4.1,
+      "q_kg_hr": 23903,
+      "nearest_cm_km": 1.0,
+      "within_tol": true
+    },
+    {
+      "lon": -101.9115,
+      "lat": 32.0286,
+      "day": "2024-06-23",
+      "sigma": 4.0,
+      "q_kg_hr": 25018,
+      "nearest_cm_km": 1.3,
+      "within_tol": true
+    },
+    {
+      "lon": -101.8115,
+      "lat": 32.6364,
+      "day": "2024-06-23",
+      "sigma": 3.7,
+      "q_kg_hr": 20573,
+      "nearest_cm_km": 11.0,
+      "within_tol": false
+    },
+    {
+      "lon": -101.8615,
+      "lat": 32.7693,
+      "day": "2024-06-23",
+      "sigma": 3.6,
+      "q_kg_hr": 19173,
+      "nearest_cm_km": 24.5,
+      "within_tol": false
+    },
+    {
+      "lon": -103.5928,
+      "lat": 31.3112,
+      "day": "2024-06-26",
+      "sigma": 3.8,
+      "q_kg_hr": 13800,
+      "nearest_cm_km": 3.1,
+      "within_tol": true
+    },
+    {
+      "lon": -103.6428,
+      "lat": 31.5119,
+      "day": "2024-06-26",
+      "sigma": 3.2,
+      "q_kg_hr": 15951,
+      "nearest_cm_km": 0.8,
+      "within_tol": true
+    },
+    {
+      "lon": -103.4711,
+      "lat": 31.8807,
+      "day": "2024-06-28",
+      "sigma": 3.1,
+      "q_kg_hr": 16767,
+      "nearest_cm_km": 1.1,
+      "within_tol": true
+    },
+    {
+      "lon": -103.4211,
+      "lat": 31.711,
+      "day": "2024-06-28",
+      "sigma": 3.1,
+      "q_kg_hr": 18657,
+      "nearest_cm_km": 1.0,
+      "within_tol": true
+    },
+    {
+      "lon": -102.022,
+      "lat": 33.1237,
+      "day": "2024-07-07",
+      "sigma": 3.7,
+      "q_kg_hr": 22226,
+      "nearest_cm_km": 65.6,
+      "within_tol": false
+    },
+    {
+      "lon": -102.072,
+      "lat": 33.3607,
+      "day": "2024-07-07",
+      "sigma": 3.4,
+      "q_kg_hr": 27367,
+      "nearest_cm_km": 76.8,
+      "within_tol": false
+    },
+    {
+      "lon": -104.5123,
+      "lat": 32.5926,
+      "day": "2024-07-18",
+      "sigma": 3.7,
+      "q_kg_hr": 36448,
+      "nearest_cm_km": 6.0,
+      "within_tol": true
+    },
+    {
+      "lon": -103.707,
+      "lat": 31.8035,
+      "day": "2024-07-24",
+      "sigma": 3.2,
+      "q_kg_hr": 16519,
+      "nearest_cm_km": 2.1,
+      "within_tol": true
+    },
+    {
+      "lon": -104.2643,
+      "lat": 32.2855,
+      "day": "2024-08-04",
+      "sigma": 4.7,
+      "q_kg_hr": 31425,
+      "nearest_cm_km": 1.5,
+      "within_tol": true
+    },
+    {
+      "lon": -102.373,
+      "lat": 32.2602,
+      "day": "2024-08-06",
+      "sigma": 4.1,
+      "q_kg_hr": 18685,
+      "nearest_cm_km": 13.3,
+      "within_tol": false
+    },
+    {
+      "lon": -102.4667,
+      "lat": 32.1796,
+      "day": "2024-08-08",
+      "sigma": 3.4,
+      "q_kg_hr": 54473,
+      "nearest_cm_km": 4.4,
+      "within_tol": true
+    },
+    {
+      "lon": -104.4748,
+      "lat": 32.5712,
+      "day": "2024-08-19",
+      "sigma": 3.8,
+      "q_kg_hr": 37808,
+      "nearest_cm_km": 8.2,
+      "within_tol": true
+    },
+    {
+      "lon": -104.2748,
+      "lat": 31.8007,
+      "day": "2024-08-19",
+      "sigma": 3.7,
+      "q_kg_hr": 39351,
+      "nearest_cm_km": 2.9,
+      "within_tol": true
+    },
+    {
+      "lon": -104.5248,
+      "lat": 32.7129,
+      "day": "2024-08-19",
+      "sigma": 3.7,
+      "q_kg_hr": 28422,
+      "nearest_cm_km": 8.7,
+      "within_tol": true
+    },
+    {
+      "lon": -104.2248,
+      "lat": 31.6427,
+      "day": "2024-08-19",
+      "sigma": 3.7,
+      "q_kg_hr": 36258,
+      "nearest_cm_km": 4.4,
+      "within_tol": true
+    },
+    {
+      "lon": -104.3248,
+      "lat": 31.9892,
+      "day": "2024-08-19",
+      "sigma": 3.5,
+      "q_kg_hr": 34250,
+      "nearest_cm_km": 3.3,
+      "within_tol": true
+    },
+    {
+      "lon": -104.1748,
+      "lat": 31.4668,
+      "day": "2024-08-19",
+      "sigma": 3.3,
+      "q_kg_hr": 30668,
+      "nearest_cm_km": 16.5,
+      "within_tol": false
+    },
+    {
+      "lon": -101.4735,
+      "lat": 33.2684,
+      "day": "2024-08-25",
+      "sigma": 3.8,
+      "q_kg_hr": 31234,
+      "nearest_cm_km": 75.2,
+      "within_tol": false
+    },
+    {
+      "lon": -101.4235,
+      "lat": 33.1077,
+      "day": "2024-08-25",
+      "sigma": 3.4,
+      "q_kg_hr": 32725,
+      "nearest_cm_km": 59.0,
+      "within_tol": false
+    },
+    {
+      "lon": -101.8857,
+      "lat": 33.0051,
+      "day": "2024-08-25",
+      "sigma": 3.4,
+      "q_kg_hr": 39585,
+      "nearest_cm_km": 50.8,
+      "within_tol": false
+    }
+  ],
+  "farthest": {
+    "lon": -102.072,
+    "lat": 33.3607,
+    "day": "2024-07-07",
+    "sigma": 3.4,
+    "q_kg_hr": 27367,
+    "nearest_cm_km": 76.8,
+    "within_tol": false
+  },
+  "cm_emission_kg_hr": {
+    "min": 5,
+    "median": 272,
+    "max": 21482
+  },
+  "noise_clusters": {
+    "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+    "reference_end": null,
+    "n_detections": 15,
+    "n_cm_plumes": 10066,
+    "n_cm_in_window": null,
+    "tolerance_km": 10.0,
+    "median_km_detections": 8.41,
+    "frac_within_tol_detections": 0.733,
+    "n_within_tol": 11,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 9.18,
+      "frac_within_tol_null": 0.514,
+      "enrichment": 1.43,
+      "enrichment_ci_days": [
+        1.06,
+        1.77
+      ]
+    },
+    "clustered_null": {
+      "method": "kernel density of 52546 wells, h = 8 km",
+      "median_km_null": 2.44,
+      "frac_within_tol_null": 0.862,
+      "enrichment": 0.85,
+      "enrichment_ci_days": [
+        0.63,
+        1.05
+      ]
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.82,
+      "16": 0.89
+    },
+    "farthest": {
+      "lon": -104.8359,
+      "lat": 33.366,
+      "day": "2024-08-07",
+      "sigma": null,
+      "q_kg_hr": 0,
+      "nearest_cm_km": 50.9,
+      "within_tol": false
+    },
+    "cm_emission_kg_hr": {
+      "min": 5,
+      "median": 272,
+      "max": 21482
+    }
+  }
+}

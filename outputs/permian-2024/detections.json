@@ -1,0 +1,1157 @@
+[
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240601T185746_20240601T203916_34382_03_020600_20240608T044218.nc",
+    "overpass_utc": "2024-06-01T19:50:24.878000Z",
+    "detection": {
+      "lon": -104.1887,
+      "lat": 32.4921,
+      "delta_xch4_mean_ppb": 44.8,
+      "delta_xch4_peak_ppb": 46.6,
+      "n_pixels": 3,
+      "area_km2": 77.9,
+      "confidence_sigma": 3.2
+    },
+    "emission": {
+      "q_kg_hr": 46420.9,
+      "q_kg_hr_range": [
+        19552.9,
+        73288.9
+      ],
+      "ime_kg": 17904.2,
+      "length_scale_m": 8824,
+      "wind_speed_ms": 6.36,
+      "wind_direction_deg": 159.5,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 90861,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 128,
+      "albedo_gradient_r": -0.014,
+      "albedo_gradient_p_naive": 0.8787,
+      "plume_axis_deg": 96.7,
+      "wind_from_deg": 159.53344480183216,
+      "axis_misalignment_deg": 62.8,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240610T192941_20240610T211111_34510_03_020600_20240614T141458.nc",
+    "overpass_utc": "2024-06-10T20:21:38.101000Z",
+    "detection": {
+      "lon": -103.4664,
+      "lat": 31.0553,
+      "delta_xch4_mean_ppb": 42.5,
+      "delta_xch4_peak_ppb": 47.4,
+      "n_pixels": 7,
+      "area_km2": 184.5,
+      "confidence_sigma": 4.3
+    },
+    "emission": {
+      "q_kg_hr": 17865.2,
+      "q_kg_hr_range": [
+        7525.0,
+        28205.4
+      ],
+      "ime_kg": 39689.6,
+      "length_scale_m": 13584,
+      "wind_speed_ms": 1.7,
+      "wind_direction_deg": 41.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 89640,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 70,
+      "albedo_gradient_r": -0.325,
+      "albedo_gradient_p_naive": 0.0061,
+      "plume_axis_deg": 145.9,
+      "wind_from_deg": 41.802369447147825,
+      "axis_misalignment_deg": 75.9,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240610T192941_20240610T211111_34510_03_020600_20240614T141458.nc",
+    "overpass_utc": "2024-06-10T20:21:38.101000Z",
+    "detection": {
+      "lon": -103.3722,
+      "lat": 31.1258,
+      "delta_xch4_mean_ppb": 38.4,
+      "delta_xch4_peak_ppb": 43.0,
+      "n_pixels": 5,
+      "area_km2": 131.7,
+      "confidence_sigma": 3.9
+    },
+    "emission": {
+      "q_kg_hr": 15136.0,
+      "q_kg_hr_range": [
+        6375.4,
+        23896.7
+      ],
+      "ime_kg": 25631.6,
+      "length_scale_m": 11477,
+      "wind_speed_ms": 1.88,
+      "wind_direction_deg": 25.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 89640,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 60,
+      "albedo_gradient_r": -0.352,
+      "albedo_gradient_p_naive": 0.0058,
+      "plume_axis_deg": 162.6,
+      "wind_from_deg": 25.010010610239743,
+      "axis_misalignment_deg": 42.4,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240612T185141_20240612T203311_34538_03_020600_20240615T185354.nc",
+    "overpass_utc": "2024-06-12T19:44:12.831000Z",
+    "detection": {
+      "lon": -103.571,
+      "lat": 32.3637,
+      "delta_xch4_mean_ppb": 37.1,
+      "delta_xch4_peak_ppb": 39.6,
+      "n_pixels": 3,
+      "area_km2": 78.0,
+      "confidence_sigma": 3.3
+    },
+    "emission": {
+      "q_kg_hr": 18702.1,
+      "q_kg_hr_range": [
+        7877.5,
+        29526.6
+      ],
+      "ime_kg": 14855.3,
+      "length_scale_m": 8831,
+      "wind_speed_ms": 3.09,
+      "wind_direction_deg": 168.3,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 90851,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 192,
+      "albedo_gradient_r": -0.001,
+      "albedo_gradient_p_naive": 0.9931,
+      "plume_axis_deg": 15.4,
+      "wind_from_deg": 168.26099869112895,
+      "axis_misalignment_deg": 27.1,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240612T185141_20240612T203311_34538_03_020600_20240615T185354.nc",
+    "overpass_utc": "2024-06-12T19:44:12.831000Z",
+    "detection": {
+      "lon": -102.371,
+      "lat": 31.7054,
+      "delta_xch4_mean_ppb": 36.4,
+      "delta_xch4_peak_ppb": 37.6,
+      "n_pixels": 4,
+      "area_km2": 104.7,
+      "confidence_sigma": 3.2
+    },
+    "emission": {
+      "q_kg_hr": 18262.4,
+      "q_kg_hr_range": [
+        7692.3,
+        28832.5
+      ],
+      "ime_kg": 19579.3,
+      "length_scale_m": 10233,
+      "wind_speed_ms": 2.65,
+      "wind_direction_deg": 73.2,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 90851,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 212,
+      "albedo_gradient_r": 0.062,
+      "albedo_gradient_p_naive": 0.3653,
+      "plume_axis_deg": 147.0,
+      "wind_from_deg": 73.21650421884878,
+      "axis_misalignment_deg": 73.7,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240623T184531_20240623T202701_34694_03_020600_20240625T105852.nc",
+    "overpass_utc": "2024-06-23T19:38:07.364000Z",
+    "detection": {
+      "lon": -102.0615,
+      "lat": 32.4326,
+      "delta_xch4_mean_ppb": 38.4,
+      "delta_xch4_peak_ppb": 39.9,
+      "n_pixels": 3,
+      "area_km2": 77.9,
+      "confidence_sigma": 4.1
+    },
+    "emission": {
+      "q_kg_hr": 23431.8,
+      "q_kg_hr_range": [
+        9869.7,
+        36994.0
+      ],
+      "ime_kg": 15418.4,
+      "length_scale_m": 8827,
+      "wind_speed_ms": 3.73,
+      "wind_direction_deg": 150.3,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91163,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 196,
+      "albedo_gradient_r": -0.015,
+      "albedo_gradient_p_naive": 0.8352,
+      "plume_axis_deg": 12.2,
+      "wind_from_deg": 150.28086118911608,
+      "axis_misalignment_deg": 42.0,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240623T184531_20240623T202701_34694_03_020600_20240625T105852.nc",
+    "overpass_utc": "2024-06-23T19:38:07.364000Z",
+    "detection": {
+      "lon": -101.9615,
+      "lat": 32.1598,
+      "delta_xch4_mean_ppb": 38.2,
+      "delta_xch4_peak_ppb": 42.8,
+      "n_pixels": 3,
+      "area_km2": 78.2,
+      "confidence_sigma": 4.1
+    },
+    "emission": {
+      "q_kg_hr": 23902.7,
+      "q_kg_hr_range": [
+        10068.0,
+        37737.4
+      ],
+      "ime_kg": 15381.6,
+      "length_scale_m": 8840,
+      "wind_speed_ms": 3.82,
+      "wind_direction_deg": 158.1,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91163,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 198,
+      "albedo_gradient_r": -0.049,
+      "albedo_gradient_p_naive": 0.4897,
+      "plume_axis_deg": 175.6,
+      "wind_from_deg": 158.09772321098396,
+      "axis_misalignment_deg": 17.5,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240623T184531_20240623T202701_34694_03_020600_20240625T105852.nc",
+    "overpass_utc": "2024-06-23T19:38:07.364000Z",
+    "detection": {
+      "lon": -101.9115,
+      "lat": 32.0286,
+      "delta_xch4_mean_ppb": 38.1,
+      "delta_xch4_peak_ppb": 41.3,
+      "n_pixels": 3,
+      "area_km2": 78.3,
+      "confidence_sigma": 4.0
+    },
+    "emission": {
+      "q_kg_hr": 25018.4,
+      "q_kg_hr_range": [
+        10538.0,
+        39498.8
+      ],
+      "ime_kg": 15359.2,
+      "length_scale_m": 8847,
+      "wind_speed_ms": 4.0,
+      "wind_direction_deg": 156.1,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91163,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 196,
+      "albedo_gradient_r": 0.038,
+      "albedo_gradient_p_naive": 0.6008,
+      "plume_axis_deg": 171.9,
+      "wind_from_deg": 156.0904556422934,
+      "axis_misalignment_deg": 15.8,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240623T184531_20240623T202701_34694_03_020600_20240625T105852.nc",
+    "overpass_utc": "2024-06-23T19:38:07.364000Z",
+    "detection": {
+      "lon": -101.8115,
+      "lat": 32.6364,
+      "delta_xch4_mean_ppb": 34.8,
+      "delta_xch4_peak_ppb": 36.0,
+      "n_pixels": 3,
+      "area_km2": 77.7,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 20573.2,
+      "q_kg_hr_range": [
+        8665.6,
+        32480.8
+      ],
+      "ime_kg": 13936.8,
+      "length_scale_m": 8817,
+      "wind_speed_ms": 3.62,
+      "wind_direction_deg": 160.5,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91163,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 200,
+      "albedo_gradient_r": -0.166,
+      "albedo_gradient_p_naive": 0.019,
+      "plume_axis_deg": 175.2,
+      "wind_from_deg": 160.48024075118428,
+      "axis_misalignment_deg": 14.7,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240623T184531_20240623T202701_34694_03_020600_20240625T105852.nc",
+    "overpass_utc": "2024-06-23T19:38:07.364000Z",
+    "detection": {
+      "lon": -101.8615,
+      "lat": 32.7693,
+      "delta_xch4_mean_ppb": 34.1,
+      "delta_xch4_peak_ppb": 36.7,
+      "n_pixels": 3,
+      "area_km2": 77.6,
+      "confidence_sigma": 3.6
+    },
+    "emission": {
+      "q_kg_hr": 19173.4,
+      "q_kg_hr_range": [
+        8076.0,
+        30270.8
+      ],
+      "ime_kg": 13613.4,
+      "length_scale_m": 8811,
+      "wind_speed_ms": 3.45,
+      "wind_direction_deg": 159.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91163,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 199,
+      "albedo_gradient_r": -0.147,
+      "albedo_gradient_p_naive": 0.0387,
+      "plume_axis_deg": 175.7,
+      "wind_from_deg": 159.82321301278148,
+      "axis_misalignment_deg": 15.9,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240626T192955_20240626T211125_34737_03_020600_20240628T113829.nc",
+    "overpass_utc": "2024-06-26T20:21:57.355000Z",
+    "detection": {
+      "lon": -103.5928,
+      "lat": 31.3112,
+      "delta_xch4_mean_ppb": 29.5,
+      "delta_xch4_peak_ppb": 37.1,
+      "n_pixels": 4,
+      "area_km2": 105.2,
+      "confidence_sigma": 3.8
+    },
+    "emission": {
+      "q_kg_hr": 13800.1,
+      "q_kg_hr_range": [
+        5812.7,
+        21787.5
+      ],
+      "ime_kg": 16015.7,
+      "length_scale_m": 10255,
+      "wind_speed_ms": 2.45,
+      "wind_direction_deg": 102.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91287,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 117,
+      "albedo_gradient_r": -0.213,
+      "albedo_gradient_p_naive": 0.0212,
+      "plume_axis_deg": 139.2,
+      "wind_from_deg": 101.99479232952328,
+      "axis_misalignment_deg": 37.2,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240626T192955_20240626T211125_34737_03_020600_20240628T113829.nc",
+    "overpass_utc": "2024-06-26T20:21:57.355000Z",
+    "detection": {
+      "lon": -103.6428,
+      "lat": 31.5119,
+      "delta_xch4_mean_ppb": 25.1,
+      "delta_xch4_peak_ppb": 27.0,
+      "n_pixels": 3,
+      "area_km2": 78.7,
+      "confidence_sigma": 3.2
+    },
+    "emission": {
+      "q_kg_hr": 15951.4,
+      "q_kg_hr_range": [
+        6718.9,
+        25184.0
+      ],
+      "ime_kg": 10176.9,
+      "length_scale_m": 8872,
+      "wind_speed_ms": 3.86,
+      "wind_direction_deg": 113.1,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91287,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 103,
+      "albedo_gradient_r": -0.232,
+      "albedo_gradient_p_naive": 0.0182,
+      "plume_axis_deg": 141.0,
+      "wind_from_deg": 113.08417119791741,
+      "axis_misalignment_deg": 27.9,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240628T185151_20240628T203321_34765_03_020600_20240630T105849.nc",
+    "overpass_utc": "2024-06-28T19:44:22.467000Z",
+    "detection": {
+      "lon": -103.4711,
+      "lat": 31.8807,
+      "delta_xch4_mean_ppb": 43.2,
+      "delta_xch4_peak_ppb": 43.5,
+      "n_pixels": 3,
+      "area_km2": 78.4,
+      "confidence_sigma": 3.1
+    },
+    "emission": {
+      "q_kg_hr": 16766.6,
+      "q_kg_hr_range": [
+        7062.2,
+        26471.0
+      ],
+      "ime_kg": 17448.5,
+      "length_scale_m": 8854,
+      "wind_speed_ms": 2.36,
+      "wind_direction_deg": 254.7,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91177,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 93,
+      "albedo_gradient_r": -0.196,
+      "albedo_gradient_p_naive": 0.0604,
+      "plume_axis_deg": 152.2,
+      "wind_from_deg": 254.71336195966302,
+      "axis_misalignment_deg": 77.5,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240628T185151_20240628T203321_34765_03_020600_20240630T105849.nc",
+    "overpass_utc": "2024-06-28T19:44:22.467000Z",
+    "detection": {
+      "lon": -103.4211,
+      "lat": 31.711,
+      "delta_xch4_mean_ppb": 42.9,
+      "delta_xch4_peak_ppb": 43.5,
+      "n_pixels": 3,
+      "area_km2": 78.5,
+      "confidence_sigma": 3.1
+    },
+    "emission": {
+      "q_kg_hr": 18656.8,
+      "q_kg_hr_range": [
+        7858.4,
+        29455.2
+      ],
+      "ime_kg": 17368.1,
+      "length_scale_m": 8862,
+      "wind_speed_ms": 2.64,
+      "wind_direction_deg": 260.4,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91177,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 97,
+      "albedo_gradient_r": -0.235,
+      "albedo_gradient_p_naive": 0.0206,
+      "plume_axis_deg": 147.2,
+      "wind_from_deg": 260.43691058528697,
+      "axis_misalignment_deg": 66.8,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240707T192324_20240707T210454_34893_03_020600_20240709T133257.nc",
+    "overpass_utc": "2024-07-07T20:15:45.479000Z",
+    "detection": {
+      "lon": -102.022,
+      "lat": 33.1237,
+      "delta_xch4_mean_ppb": 50.0,
+      "delta_xch4_peak_ppb": 52.9,
+      "n_pixels": 3,
+      "area_km2": 77.3,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 22225.5,
+      "q_kg_hr_range": [
+        9361.6,
+        35089.5
+      ],
+      "ime_kg": 19673.9,
+      "length_scale_m": 8793,
+      "wind_speed_ms": 2.76,
+      "wind_direction_deg": 192.2,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 90075,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 62,
+      "albedo_gradient_r": 0.027,
+      "albedo_gradient_p_naive": 0.8364,
+      "plume_axis_deg": 169.1,
+      "wind_from_deg": 192.18031182579006,
+      "axis_misalignment_deg": 23.1,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240707T192324_20240707T210454_34893_03_020600_20240709T133257.nc",
+    "overpass_utc": "2024-07-07T20:15:45.479000Z",
+    "detection": {
+      "lon": -102.072,
+      "lat": 33.3607,
+      "delta_xch4_mean_ppb": 46.1,
+      "delta_xch4_peak_ppb": 48.4,
+      "n_pixels": 5,
+      "area_km2": 128.5,
+      "confidence_sigma": 3.4
+    },
+    "emission": {
+      "q_kg_hr": 27367.0,
+      "q_kg_hr_range": [
+        11527.2,
+        43206.8
+      ],
+      "ime_kg": 30122.7,
+      "length_scale_m": 11336,
+      "wind_speed_ms": 2.86,
+      "wind_direction_deg": 203.4,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 90075,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 68,
+      "albedo_gradient_r": -0.037,
+      "albedo_gradient_p_naive": 0.7643,
+      "plume_axis_deg": 172.3,
+      "wind_from_deg": 203.4073739507716,
+      "axis_misalignment_deg": 31.1,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240718T191638_20240718T205808_35049_03_020600_20240721T064342.nc",
+    "overpass_utc": "2024-07-18T20:09:39.773000Z",
+    "detection": {
+      "lon": -104.5123,
+      "lat": 32.5926,
+      "delta_xch4_mean_ppb": 52.7,
+      "delta_xch4_peak_ppb": 60.4,
+      "n_pixels": 3,
+      "area_km2": 77.8,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 36447.8,
+      "q_kg_hr_range": [
+        15352.1,
+        57543.5
+      ],
+      "ime_kg": 21111.8,
+      "length_scale_m": 8819,
+      "wind_speed_ms": 4.23,
+      "wind_direction_deg": 113.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91144,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": false,
+      "n_cells": 21,
+      "note": "21 valid cells, fewer than the 30 required"
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240724T190337_20240724T204507_35134_03_020600_20240726T115058.nc",
+    "overpass_utc": "2024-07-24T19:57:02.485000Z",
+    "detection": {
+      "lon": -103.707,
+      "lat": 31.8035,
+      "delta_xch4_mean_ppb": 50.4,
+      "delta_xch4_peak_ppb": 53.5,
+      "n_pixels": 3,
+      "area_km2": 78.5,
+      "confidence_sigma": 3.2
+    },
+    "emission": {
+      "q_kg_hr": 16518.9,
+      "q_kg_hr_range": [
+        6957.9,
+        26079.9
+      ],
+      "ime_kg": 20006.5,
+      "length_scale_m": 8858,
+      "wind_speed_ms": 2.03,
+      "wind_direction_deg": 159.5,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 89669,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 51,
+      "albedo_gradient_r": 0.129,
+      "albedo_gradient_p_naive": 0.368,
+      "plume_axis_deg": 79.6,
+      "wind_from_deg": 159.5026219580292,
+      "axis_misalignment_deg": 79.9,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240804T185630_20240804T203759_35290_03_020600_20240810T110547.nc",
+    "overpass_utc": "2024-08-04T19:50:54.824000Z",
+    "detection": {
+      "lon": -104.2643,
+      "lat": 32.2855,
+      "delta_xch4_mean_ppb": 41.1,
+      "delta_xch4_peak_ppb": 43.0,
+      "n_pixels": 3,
+      "area_km2": 78.0,
+      "confidence_sigma": 4.7
+    },
+    "emission": {
+      "q_kg_hr": 31425.1,
+      "q_kg_hr_range": [
+        13236.5,
+        49613.7
+      ],
+      "ime_kg": 16168.3,
+      "length_scale_m": 8834,
+      "wind_speed_ms": 4.77,
+      "wind_direction_deg": 141.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 89296,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 93,
+      "albedo_gradient_r": 0.139,
+      "albedo_gradient_p_naive": 0.1837,
+      "plume_axis_deg": 40.7,
+      "wind_from_deg": 141.7715120093497,
+      "axis_misalignment_deg": 78.9,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240806T181816_20240806T195946_35318_03_020600_20240811T180636.nc",
+    "overpass_utc": "2024-08-06T19:13:34.848000Z",
+    "detection": {
+      "lon": -102.373,
+      "lat": 32.2602,
+      "delta_xch4_mean_ppb": 29.0,
+      "delta_xch4_peak_ppb": 34.5,
+      "n_pixels": 5,
+      "area_km2": 130.1,
+      "confidence_sigma": 4.1
+    },
+    "emission": {
+      "q_kg_hr": 18685.0,
+      "q_kg_hr_range": [
+        7870.3,
+        29499.8
+      ],
+      "ime_kg": 19456.6,
+      "length_scale_m": 11407,
+      "wind_speed_ms": 3.04,
+      "wind_direction_deg": 173.4,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91330,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": false,
+      "note": "no QA-passing pixels around the candidate"
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240808T192132_20240808T210301_35347_03_020600_20240813T012318.nc",
+    "overpass_utc": "2024-08-08T20:15:46.572000Z",
+    "detection": {
+      "lon": -102.4667,
+      "lat": 32.1796,
+      "delta_xch4_mean_ppb": 60.6,
+      "delta_xch4_peak_ppb": 70.0,
+      "n_pixels": 3,
+      "area_km2": 78.1,
+      "confidence_sigma": 3.4
+    },
+    "emission": {
+      "q_kg_hr": 54472.7,
+      "q_kg_hr_range": [
+        22944.4,
+        86001.1
+      ],
+      "ime_kg": 24393.1,
+      "length_scale_m": 8839,
+      "wind_speed_ms": 5.48,
+      "wind_direction_deg": 96.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91174,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 140,
+      "albedo_gradient_r": -0.166,
+      "albedo_gradient_p_naive": 0.0496,
+      "plume_axis_deg": 71.4,
+      "wind_from_deg": 96.81066615509357,
+      "axis_misalignment_deg": 25.4,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.4748,
+      "lat": 32.5712,
+      "delta_xch4_mean_ppb": 44.8,
+      "delta_xch4_peak_ppb": 49.0,
+      "n_pixels": 4,
+      "area_km2": 103.7,
+      "confidence_sigma": 3.8
+    },
+    "emission": {
+      "q_kg_hr": 37807.6,
+      "q_kg_hr_range": [
+        15924.9,
+        59690.4
+      ],
+      "ime_kg": 23921.5,
+      "length_scale_m": 10185,
+      "wind_speed_ms": 4.47,
+      "wind_direction_deg": 132.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 187,
+      "albedo_gradient_r": -0.206,
+      "albedo_gradient_p_naive": 0.0047,
+      "plume_axis_deg": 168.2,
+      "wind_from_deg": 132.01544649569442,
+      "axis_misalignment_deg": 36.2,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.2748,
+      "lat": 31.8007,
+      "delta_xch4_mean_ppb": 43.2,
+      "delta_xch4_peak_ppb": 44.8,
+      "n_pixels": 4,
+      "area_km2": 104.6,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 39350.8,
+      "q_kg_hr_range": [
+        16574.9,
+        62126.7
+      ],
+      "ime_kg": 23213.8,
+      "length_scale_m": 10228,
+      "wind_speed_ms": 4.82,
+      "wind_direction_deg": 111.2,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 226,
+      "albedo_gradient_r": -0.172,
+      "albedo_gradient_p_naive": 0.0097,
+      "plume_axis_deg": 173.1,
+      "wind_from_deg": 111.1566419128662,
+      "axis_misalignment_deg": 61.9,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.5248,
+      "lat": 32.7129,
+      "delta_xch4_mean_ppb": 43.1,
+      "delta_xch4_peak_ppb": 49.2,
+      "n_pixels": 3,
+      "area_km2": 77.7,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 28422.4,
+      "q_kg_hr_range": [
+        11971.7,
+        44873.0
+      ],
+      "ime_kg": 17231.0,
+      "length_scale_m": 8813,
+      "wind_speed_ms": 4.04,
+      "wind_direction_deg": 142.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 187,
+      "albedo_gradient_r": -0.127,
+      "albedo_gradient_p_naive": 0.0842,
+      "plume_axis_deg": 169.0,
+      "wind_from_deg": 142.0,
+      "axis_misalignment_deg": 27.0,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.2248,
+      "lat": 31.6427,
+      "delta_xch4_mean_ppb": 42.9,
+      "delta_xch4_peak_ppb": 47.9,
+      "n_pixels": 3,
+      "area_km2": 78.6,
+      "confidence_sigma": 3.7
+    },
+    "emission": {
+      "q_kg_hr": 36258.2,
+      "q_kg_hr_range": [
+        15272.2,
+        57244.1
+      ],
+      "ime_kg": 17351.1,
+      "length_scale_m": 8865,
+      "wind_speed_ms": 5.15,
+      "wind_direction_deg": 102.4,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 233,
+      "albedo_gradient_r": -0.086,
+      "albedo_gradient_p_naive": 0.1914,
+      "plume_axis_deg": 171.1,
+      "wind_from_deg": 102.43056073072154,
+      "axis_misalignment_deg": 68.7,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.3248,
+      "lat": 31.9892,
+      "delta_xch4_mean_ppb": 41.4,
+      "delta_xch4_peak_ppb": 45.0,
+      "n_pixels": 4,
+      "area_km2": 104.4,
+      "confidence_sigma": 3.5
+    },
+    "emission": {
+      "q_kg_hr": 34249.8,
+      "q_kg_hr_range": [
+        14426.3,
+        54073.3
+      ],
+      "ime_kg": 22219.0,
+      "length_scale_m": 10218,
+      "wind_speed_ms": 4.38,
+      "wind_direction_deg": 108.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 215,
+      "albedo_gradient_r": -0.219,
+      "albedo_gradient_p_naive": 0.0013,
+      "plume_axis_deg": 179.1,
+      "wind_from_deg": 108.83574218508006,
+      "axis_misalignment_deg": 70.3,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240819T191406_20240819T205535_35503_03_020600_20240821T112148.nc",
+    "overpass_utc": "2024-08-19T20:09:20.454000Z",
+    "detection": {
+      "lon": -104.1748,
+      "lat": 31.4668,
+      "delta_xch4_mean_ppb": 38.1,
+      "delta_xch4_peak_ppb": 40.2,
+      "n_pixels": 3,
+      "area_km2": 78.7,
+      "confidence_sigma": 3.3
+    },
+    "emission": {
+      "q_kg_hr": 30668.5,
+      "q_kg_hr_range": [
+        12917.8,
+        48419.2
+      ],
+      "ime_kg": 15427.3,
+      "length_scale_m": 8874,
+      "wind_speed_ms": 4.9,
+      "wind_direction_deg": 93.3,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91043,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 242,
+      "albedo_gradient_r": -0.28,
+      "albedo_gradient_p_naive": 0.0,
+      "plume_axis_deg": 174.7,
+      "wind_from_deg": 93.31483772026165,
+      "axis_misalignment_deg": 81.4,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240825T190043_20240825T204213_35588_03_020600_20240827T111840.nc",
+    "overpass_utc": "2024-08-25T19:56:41.762000Z",
+    "detection": {
+      "lon": -101.4735,
+      "lat": 33.2684,
+      "delta_xch4_mean_ppb": 48.9,
+      "delta_xch4_peak_ppb": 55.0,
+      "n_pixels": 3,
+      "area_km2": 77.2,
+      "confidence_sigma": 3.8
+    },
+    "emission": {
+      "q_kg_hr": 31233.8,
+      "q_kg_hr_range": [
+        13155.9,
+        49311.6
+      ],
+      "ime_kg": 19445.1,
+      "length_scale_m": 8786,
+      "wind_speed_ms": 3.92,
+      "wind_direction_deg": 142.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91287,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 249,
+      "albedo_gradient_r": -0.083,
+      "albedo_gradient_p_naive": 0.1924,
+      "plume_axis_deg": 32.2,
+      "wind_from_deg": 142.0,
+      "axis_misalignment_deg": 70.2,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240825T190043_20240825T204213_35588_03_020600_20240827T111840.nc",
+    "overpass_utc": "2024-08-25T19:56:41.762000Z",
+    "detection": {
+      "lon": -101.4235,
+      "lat": 33.1077,
+      "delta_xch4_mean_ppb": 44.1,
+      "delta_xch4_peak_ppb": 46.4,
+      "n_pixels": 4,
+      "area_km2": 103.1,
+      "confidence_sigma": 3.4
+    },
+    "emission": {
+      "q_kg_hr": 32724.6,
+      "q_kg_hr_range": [
+        13783.9,
+        51665.4
+      ],
+      "ime_kg": 23445.7,
+      "length_scale_m": 10154,
+      "wind_speed_ms": 3.94,
+      "wind_direction_deg": 141.0,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91287,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 251,
+      "albedo_gradient_r": -0.116,
+      "albedo_gradient_p_naive": 0.0655,
+      "plume_axis_deg": 29.4,
+      "wind_from_deg": 141.0,
+      "axis_misalignment_deg": 68.4,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20240825T190043_20240825T204213_35588_03_020600_20240827T111840.nc",
+    "overpass_utc": "2024-08-25T19:56:41.762000Z",
+    "detection": {
+      "lon": -101.8857,
+      "lat": 33.0051,
+      "delta_xch4_mean_ppb": 43.9,
+      "delta_xch4_peak_ppb": 49.4,
+      "n_pixels": 5,
+      "area_km2": 129.0,
+      "confidence_sigma": 3.4
+    },
+    "emission": {
+      "q_kg_hr": 39584.6,
+      "q_kg_hr_range": [
+        16673.4,
+        62495.8
+      ],
+      "ime_kg": 29173.9,
+      "length_scale_m": 11359,
+      "wind_speed_ms": 4.28,
+      "wind_direction_deg": 142.7,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 91287,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 239,
+      "albedo_gradient_r": -0.117,
+      "albedo_gradient_p_naive": 0.071,
+      "plume_axis_deg": 40.5,
+      "wind_from_deg": 142.72146893659433,
+      "axis_misalignment_deg": 77.8,
+      "albedo_flag": false,
+      "wind_flag": true,
+      "flagged": false
+    }
+  }
+]

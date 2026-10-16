@@ -1,0 +1,76 @@
+{
+  "flare_data": "Flaring Monitor (Colorado School of Mines), VIIRS Nightfire 2019-2021",
+  "n_flare_sites": 101,
+  "grid": {
+    "rho": NaN,
+    "p_naive": NaN,
+    "p_permutation": 1.0,
+    "n_cells": 0,
+    "null_rho_sd": NaN,
+    "scatter": [],
+    "moran_geary": {
+      "n_cells": 0,
+      "sufficient_data": false
+    }
+  },
+  "proximity": {
+    "n_flare_sites": 50,
+    "n_detections": 0,
+    "tolerance_km": 5.0,
+    "median_km_detections": NaN,
+    "frac_within_tol_detections": NaN,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 16.9,
+      "frac_within_tol_null": 0.076,
+      "enrichment": NaN,
+      "enrichment_ci_days": null,
+      "mannwhitney_p": NaN
+    },
+    "clustered_null": {
+      "method": "kernel density of 8160 wells, h = 8 km",
+      "median_km_null": 12.16,
+      "frac_within_tol_null": 0.097,
+      "enrichment": NaN,
+      "enrichment_ci_days": null,
+      "mannwhitney_p": NaN
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": NaN,
+      "16": NaN
+    }
+  },
+  "proximity_noise_clusters": {
+    "n_flare_sites": 50,
+    "n_detections": 4,
+    "tolerance_km": 5.0,
+    "median_km_detections": 12.69,
+    "frac_within_tol_detections": 0.25,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 16.9,
+      "frac_within_tol_null": 0.076,
+      "enrichment": 3.28,
+      "enrichment_ci_days": [
+        3.28,
+        3.28
+      ],
+      "mannwhitney_p": 0.1529
+    },
+    "clustered_null": {
+      "method": "kernel density of 8160 wells, h = 8 km",
+      "median_km_null": 12.16,
+      "frac_within_tol_null": 0.097,
+      "enrichment": 2.57,
+      "enrichment_ci_days": [
+        2.57,
+        2.57
+      ],
+      "mannwhitney_p": 0.4231
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 2.28,
+      "16": 2.96
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+  "reference_end": "2026-09-01",
+  "n_detections": 0,
+  "n_cm_plumes": 65,
+  "n_cm_in_window": 1,
+  "tolerance_km": 10.0,
+  "median_km_detections": null,
+  "frac_within_tol_detections": null,
+  "n_within_tol": 0,
+  "uniform_null": {
+    "method": "uniform in bounding box",
+    "median_km_null": 36.74,
+    "frac_within_tol_null": 0.17,
+    "enrichment": NaN,
+    "enrichment_ci_days": null
+  },
+  "clustered_null": {
+    "method": "kernel density of 7165 wells, h = 8 km",
+    "median_km_null": 9.66,
+    "frac_within_tol_null": 0.508,
+    "enrichment": NaN,
+    "enrichment_ci_days": null
+  },
+  "clustered_enrichment_by_bandwidth_km": {
+    "4": NaN,
+    "16": NaN
+  },
+  "detections": [],
+  "farthest": null,
+  "cm_emission_kg_hr": {
+    "min": 145,
+    "median": 1048,
+    "max": 10563
+  },
+  "noise_clusters": {
+    "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+    "reference_end": null,
+    "n_detections": 2,
+    "n_cm_plumes": 65,
+    "n_cm_in_window": null,
+    "tolerance_km": 10.0,
+    "median_km_detections": 13.83,
+    "frac_within_tol_detections": 0.0,
+    "n_within_tol": 0,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 36.74,
+      "frac_within_tol_null": 0.17,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ]
+    },
+    "clustered_null": {
+      "method": "kernel density of 7165 wells, h = 8 km",
+      "median_km_null": 9.66,
+      "frac_within_tol_null": 0.508,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ]
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.0,
+      "16": 0.0
+    },
+    "farthest": {
+      "lon": -102.3161,
+      "lat": 47.8109,
+      "day": "2026-07-04",
+      "sigma": null,
+      "q_kg_hr": 0,
+      "nearest_cm_km": 15.1,
+      "within_tol": false
+    },
+    "cm_emission_kg_hr": {
+      "min": 145,
+      "median": 1048,
+      "max": 10563
+    }
+  }
+}

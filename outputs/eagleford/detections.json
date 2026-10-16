@@ -1,0 +1,90 @@
+[
+  {
+    "granule": "S5P_OFFL_L2__CH4____20260626T195318_20260626T213448_45094_03_020901_20260628T132211.nc",
+    "overpass_utc": "2026-06-26T20:44:08.943000Z",
+    "detection": {
+      "lon": -99.9696,
+      "lat": 28.2036,
+      "delta_xch4_mean_ppb": 21.8,
+      "delta_xch4_peak_ppb": 23.8,
+      "n_pixels": 3,
+      "area_km2": 81.4,
+      "confidence_sigma": 3.5
+    },
+    "emission": {
+      "q_kg_hr": 26798.7,
+      "q_kg_hr_range": [
+        11287.8,
+        42309.5
+      ],
+      "ime_kg": 9923.3,
+      "length_scale_m": 9020,
+      "wind_speed_ms": 6.77,
+      "wind_direction_deg": 153.5,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 98892,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 84,
+      "albedo_gradient_r": -0.121,
+      "albedo_gradient_p_naive": 0.2723,
+      "plume_axis_deg": 12.7,
+      "wind_from_deg": 153.48264628880258,
+      "axis_misalignment_deg": 39.2,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    },
+    "carbon_mapper": {
+      "n_sources": 2,
+      "nearest_km": 6.02,
+      "summed_kg_hr": 7809.9,
+      "ratio": 3.43
+    }
+  },
+  {
+    "granule": "S5P_OFFL_L2__CH4____20260629T185614_20260629T203744_45136_03_020901_20260701T112111.nc",
+    "overpass_utc": "2026-06-29T19:47:30.753000Z",
+    "detection": {
+      "lon": -99.9711,
+      "lat": 28.2951,
+      "delta_xch4_mean_ppb": 34.7,
+      "delta_xch4_peak_ppb": 36.2,
+      "n_pixels": 3,
+      "area_km2": 81.3,
+      "confidence_sigma": 3.1
+    },
+    "emission": {
+      "q_kg_hr": 50263.0,
+      "q_kg_hr_range": [
+        21171.2,
+        79354.8
+      ],
+      "ime_kg": 15885.2,
+      "length_scale_m": 9016,
+      "wind_speed_ms": 7.92,
+      "wind_direction_deg": 153.8,
+      "wind_source": "ERA5 via Open-Meteo 10 m",
+      "p_surf_pa": 99735,
+      "rel_uncertainty_1sigma": 0.58
+    },
+    "albedo_screen": {
+      "available": true,
+      "n_cells": 211,
+      "albedo_gradient_r": 0.069,
+      "albedo_gradient_p_naive": 0.3181,
+      "plume_axis_deg": 119.1,
+      "wind_from_deg": 153.8002046737373,
+      "axis_misalignment_deg": 34.7,
+      "albedo_flag": false,
+      "wind_flag": false,
+      "flagged": false
+    },
+    "carbon_mapper": {
+      "n_sources": 0,
+      "nearest_km": 15.54
+    }
+  }
+]

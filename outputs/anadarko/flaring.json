@@ -1,0 +1,87 @@
+{
+  "flare_data": "Flaring Monitor (Colorado School of Mines), VIIRS Nightfire 2019-2021",
+  "n_flare_sites": 760,
+  "grid": {
+    "rho": NaN,
+    "p_naive": NaN,
+    "p_permutation": 1.0,
+    "n_cells": 1,
+    "null_rho_sd": NaN,
+    "scatter": [
+      [
+        2.324,
+        -0.6
+      ]
+    ],
+    "moran_geary": {
+      "n_cells": 1,
+      "sufficient_data": false
+    }
+  },
+  "proximity": {
+    "n_flare_sites": 380,
+    "n_detections": 6,
+    "tolerance_km": 5.0,
+    "median_km_detections": 71.76,
+    "frac_within_tol_detections": 0.0,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 20.99,
+      "frac_within_tol_null": 0.071,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ],
+      "mannwhitney_p": 0.9998
+    },
+    "clustered_null": {
+      "method": "kernel density of 1932 wells, h = 8 km",
+      "median_km_null": 17.37,
+      "frac_within_tol_null": 0.105,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ],
+      "mannwhitney_p": 1.0
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.0,
+      "16": 0.0
+    }
+  },
+  "proximity_noise_clusters": {
+    "n_flare_sites": 380,
+    "n_detections": 9,
+    "tolerance_km": 5.0,
+    "median_km_detections": 27.72,
+    "frac_within_tol_detections": 0.111,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 20.99,
+      "frac_within_tol_null": 0.071,
+      "enrichment": 1.56,
+      "enrichment_ci_days": [
+        0.0,
+        5.28
+      ],
+      "mannwhitney_p": 0.6679
+    },
+    "clustered_null": {
+      "method": "kernel density of 1932 wells, h = 8 km",
+      "median_km_null": 17.37,
+      "frac_within_tol_null": 0.105,
+      "enrichment": 1.05,
+      "enrichment_ci_days": [
+        0.0,
+        3.56
+      ],
+      "mannwhitney_p": 0.872
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 1.17,
+      "16": 1.17
+    }
+  }
+}

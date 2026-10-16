@@ -1,0 +1,154 @@
+{
+  "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+  "reference_end": "2026-09-01",
+  "n_detections": 6,
+  "n_cm_plumes": 162,
+  "n_cm_in_window": 22,
+  "tolerance_km": 10.0,
+  "median_km_detections": 77.71,
+  "frac_within_tol_detections": 0.0,
+  "n_within_tol": 0,
+  "uniform_null": {
+    "method": "uniform in bounding box",
+    "median_km_null": 32.9,
+    "frac_within_tol_null": 0.196,
+    "enrichment": 0.0,
+    "enrichment_ci_days": [
+      0.0,
+      0.0
+    ]
+  },
+  "clustered_null": {
+    "method": "kernel density of 1932 wells, h = 8 km",
+    "median_km_null": 29.63,
+    "frac_within_tol_null": 0.172,
+    "enrichment": 0.0,
+    "enrichment_ci_days": [
+      0.0,
+      0.0
+    ]
+  },
+  "clustered_enrichment_by_bandwidth_km": {
+    "4": 0.0,
+    "16": 0.0
+  },
+  "detections": [
+    {
+      "lon": -100.4226,
+      "lat": 34.6356,
+      "day": "2026-06-08",
+      "sigma": 3.3,
+      "q_kg_hr": 43753,
+      "nearest_cm_km": 92.0,
+      "within_tol": false
+    },
+    {
+      "lon": -100.4726,
+      "lat": 34.7764,
+      "day": "2026-06-08",
+      "sigma": 3.2,
+      "q_kg_hr": 41928,
+      "nearest_cm_km": 76.7,
+      "within_tol": false
+    },
+    {
+      "lon": -100.4727,
+      "lat": 34.6731,
+      "day": "2026-07-09",
+      "sigma": 3.4,
+      "q_kg_hr": 35698,
+      "nearest_cm_km": 88.1,
+      "within_tol": false
+    },
+    {
+      "lon": -100.2704,
+      "lat": 36.7416,
+      "day": "2026-08-04",
+      "sigma": 3.6,
+      "q_kg_hr": 14056,
+      "nearest_cm_km": 65.4,
+      "within_tol": false
+    },
+    {
+      "lon": -100.263,
+      "lat": 36.7404,
+      "day": "2026-08-05",
+      "sigma": 3.4,
+      "q_kg_hr": 12809,
+      "nearest_cm_km": 65.4,
+      "within_tol": false
+    },
+    {
+      "lon": -99.4149,
+      "lat": 36.7323,
+      "day": "2026-08-21",
+      "sigma": 3.3,
+      "q_kg_hr": 36985,
+      "nearest_cm_km": 78.8,
+      "within_tol": false
+    }
+  ],
+  "farthest": {
+    "lon": -100.4226,
+    "lat": 34.6356,
+    "day": "2026-06-08",
+    "sigma": 3.3,
+    "q_kg_hr": 43753,
+    "nearest_cm_km": 92.0,
+    "within_tol": false
+  },
+  "cm_emission_kg_hr": {
+    "min": 113,
+    "median": 668,
+    "max": 12379
+  },
+  "noise_clusters": {
+    "reference": "Carbon Mapper annotated CH4 plumes, full mission",
+    "reference_end": null,
+    "n_detections": 9,
+    "n_cm_plumes": 162,
+    "n_cm_in_window": null,
+    "tolerance_km": 10.0,
+    "median_km_detections": 36.99,
+    "frac_within_tol_detections": 0.0,
+    "n_within_tol": 0,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 32.9,
+      "frac_within_tol_null": 0.196,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ]
+    },
+    "clustered_null": {
+      "method": "kernel density of 1932 wells, h = 8 km",
+      "median_km_null": 29.63,
+      "frac_within_tol_null": 0.172,
+      "enrichment": 0.0,
+      "enrichment_ci_days": [
+        0.0,
+        0.0
+      ]
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.0,
+      "16": 0.0
+    },
+    "farthest": {
+      "lon": -100.3203,
+      "lat": 34.6534,
+      "day": "2026-06-07",
+      "sigma": null,
+      "q_kg_hr": 0,
+      "nearest_cm_km": 90.3,
+      "within_tol": false
+    },
+    "cm_emission_kg_hr": {
+      "min": 113,
+      "median": 668,
+      "max": 12379
+    }
+  }
+}

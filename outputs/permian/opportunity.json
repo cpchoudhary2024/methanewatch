@@ -1,0 +1,110 @@
+{
+  "region": "permian",
+  "year": "2026",
+  "n_candidates": 10,
+  "n_candidate_days": 5,
+  "n_candidate_scenes": 5,
+  "n_wells": 52546,
+  "n_flares": 33186,
+  "tolerance_km": 5.0,
+  "candidate_fraction": 0.8,
+  "method": "QA-passing pixel centres in each candidate scene; well-density weighting uses the original 8 km kernel surface; day-paired bootstrap",
+  "rows": [
+    {
+      "day": "2026-07-30",
+      "granule": "S5P_OFFL_L2__CH4____20260730T191437_20260730T205607_45576_03_020901_20260801T114952.nc",
+      "near_flare": false,
+      "n_pixels": 1786,
+      "uniform_fraction": 0.4563269876819709,
+      "wells_fraction": 0.7588232687225243
+    },
+    {
+      "day": "2026-08-02",
+      "granule": "S5P_OFFL_L2__CH4____20260802T195852_20260802T214022_45619_03_020901_20260804T125617.nc",
+      "near_flare": true,
+      "n_pixels": 311,
+      "uniform_fraction": 0.5080385852090032,
+      "wells_fraction": 0.8682886211598734
+    },
+    {
+      "day": "2026-08-02",
+      "granule": "S5P_OFFL_L2__CH4____20260802T195852_20260802T214022_45619_03_020901_20260804T125617.nc",
+      "near_flare": true,
+      "n_pixels": 311,
+      "uniform_fraction": 0.5080385852090032,
+      "wells_fraction": 0.8682886211598734
+    },
+    {
+      "day": "2026-08-09",
+      "granule": "S5P_OFFL_L2__CH4____20260809T192646_20260809T210816_45718_03_020901_20260811T113730.nc",
+      "near_flare": false,
+      "n_pixels": 1477,
+      "uniform_fraction": 0.3818551117129316,
+      "wells_fraction": 0.741123373677705
+    },
+    {
+      "day": "2026-08-09",
+      "granule": "S5P_OFFL_L2__CH4____20260809T192646_20260809T210816_45718_03_020901_20260811T113730.nc",
+      "near_flare": true,
+      "n_pixels": 1477,
+      "uniform_fraction": 0.3818551117129316,
+      "wells_fraction": 0.741123373677705
+    },
+    {
+      "day": "2026-08-25",
+      "granule": "S5P_OFFL_L2__CH4____20260825T192540_20260825T210709_45945_03_020901_20260827T120107.nc",
+      "near_flare": true,
+      "n_pixels": 2129,
+      "uniform_fraction": 0.47862846406763737,
+      "wells_fraction": 0.8023447869633633
+    },
+    {
+      "day": "2026-08-25",
+      "granule": "S5P_OFFL_L2__CH4____20260825T192540_20260825T210709_45945_03_020901_20260827T120107.nc",
+      "near_flare": true,
+      "n_pixels": 2129,
+      "uniform_fraction": 0.47862846406763737,
+      "wells_fraction": 0.8023447869633633
+    },
+    {
+      "day": "2026-08-25",
+      "granule": "S5P_OFFL_L2__CH4____20260825T192540_20260825T210709_45945_03_020901_20260827T120107.nc",
+      "near_flare": true,
+      "n_pixels": 2129,
+      "uniform_fraction": 0.47862846406763737,
+      "wells_fraction": 0.8023447869633633
+    },
+    {
+      "day": "2026-08-27",
+      "granule": "S5P_OFFL_L2__CH4____20260827T184727_20260827T202856_45973_03_020901_20260829T105716.nc",
+      "near_flare": true,
+      "n_pixels": 533,
+      "uniform_fraction": 0.5309568480300187,
+      "wells_fraction": 0.7834790023678988
+    },
+    {
+      "day": "2026-08-27",
+      "granule": "S5P_OFFL_L2__CH4____20260827T184727_20260827T202856_45973_03_020901_20260829T105716.nc",
+      "near_flare": true,
+      "n_pixels": 533,
+      "uniform_fraction": 0.5309568480300187,
+      "wells_fraction": 0.7834790023678988
+    }
+  ],
+  "uniform": {
+    "null_fraction": 0.4734,
+    "enrichment": 1.69,
+    "ci_days": [
+      0.95,
+      2.01
+    ]
+  },
+  "wells": {
+    "null_fraction": 0.7952,
+    "enrichment": 1.006,
+    "ci_days": [
+      0.56,
+      1.24
+    ]
+  }
+}

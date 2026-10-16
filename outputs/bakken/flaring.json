@@ -1,0 +1,294 @@
+{
+  "flare_data": "Flaring Monitor (Colorado School of Mines), VIIRS Nightfire 2019-2021",
+  "n_flare_sites": 31681,
+  "grid": {
+    "rho": -0.087,
+    "p_naive": 0.5405027481886246,
+    "p_permutation": 0.646,
+    "n_cells": 52,
+    "null_rho_sd": 0.166,
+    "scatter": [
+      [
+        1.667,
+        2.9
+      ],
+      [
+        3.77,
+        -2.3
+      ],
+      [
+        4.008,
+        2.2
+      ],
+      [
+        0.653,
+        -0.7
+      ],
+      [
+        4.126,
+        -2.1
+      ],
+      [
+        2.672,
+        0.8
+      ],
+      [
+        5.105,
+        -1.3
+      ],
+      [
+        2.889,
+        7.3
+      ],
+      [
+        6.392,
+        -1.1
+      ],
+      [
+        6.807,
+        1.4
+      ],
+      [
+        7.347,
+        -4.7
+      ],
+      [
+        7.189,
+        5.4
+      ],
+      [
+        1.103,
+        8.1
+      ],
+      [
+        6.539,
+        -5.8
+      ],
+      [
+        0.713,
+        2.7
+      ],
+      [
+        5.48,
+        -3.8
+      ],
+      [
+        2.077,
+        -4.1
+      ],
+      [
+        6.499,
+        5.3
+      ],
+      [
+        7.837,
+        2.4
+      ],
+      [
+        5.486,
+        -4.0
+      ],
+      [
+        7.195,
+        5.2
+      ],
+      [
+        6.127,
+        -4.7
+      ],
+      [
+        8.413,
+        -2.2
+      ],
+      [
+        5.656,
+        -4.2
+      ],
+      [
+        3.651,
+        2.4
+      ],
+      [
+        2.873,
+        -0.0
+      ],
+      [
+        6.048,
+        3.1
+      ],
+      [
+        6.283,
+        1.1
+      ],
+      [
+        6.853,
+        1.4
+      ],
+      [
+        3.438,
+        -6.4
+      ],
+      [
+        2.587,
+        -1.6
+      ],
+      [
+        1.917,
+        -3.8
+      ],
+      [
+        7.293,
+        -4.3
+      ],
+      [
+        5.367,
+        -2.4
+      ],
+      [
+        6.126,
+        3.8
+      ],
+      [
+        6.922,
+        2.0
+      ],
+      [
+        5.888,
+        3.4
+      ],
+      [
+        2.157,
+        -1.8
+      ],
+      [
+        4.458,
+        4.4
+      ],
+      [
+        3.93,
+        3.4
+      ],
+      [
+        5.948,
+        -2.9
+      ],
+      [
+        2.13,
+        9.0
+      ],
+      [
+        3.416,
+        5.2
+      ],
+      [
+        3.704,
+        -0.6
+      ],
+      [
+        4.025,
+        0.2
+      ],
+      [
+        5.187,
+        -3.9
+      ],
+      [
+        0.677,
+        3.1
+      ],
+      [
+        6.502,
+        3.1
+      ],
+      [
+        4.084,
+        6.2
+      ],
+      [
+        5.552,
+        -0.6
+      ],
+      [
+        6.534,
+        6.4
+      ],
+      [
+        4.298,
+        0.7
+      ]
+    ],
+    "moran_geary": {
+      "n_cells": 52,
+      "sufficient_data": true,
+      "k_neighbors": 8,
+      "morans_i": 0.0011,
+      "morans_i_p_sim": 0.318,
+      "gearys_c": 0.9532,
+      "gearys_c_p_sim": 0.208,
+      "significant_clustering": false,
+      "n_hotspots_local": 1,
+      "n_coldspots_local": 1,
+      "alpha": 0.05
+    }
+  },
+  "proximity": {
+    "n_flare_sites": 15840,
+    "n_detections": 0,
+    "tolerance_km": 5.0,
+    "median_km_detections": NaN,
+    "frac_within_tol_detections": NaN,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 7.28,
+      "frac_within_tol_null": 0.42,
+      "enrichment": NaN,
+      "enrichment_ci_days": null,
+      "mannwhitney_p": NaN
+    },
+    "clustered_null": {
+      "method": "kernel density of 7165 wells, h = 8 km",
+      "median_km_null": 1.71,
+      "frac_within_tol_null": 0.849,
+      "enrichment": NaN,
+      "enrichment_ci_days": null,
+      "mannwhitney_p": NaN
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": NaN,
+      "16": NaN
+    }
+  },
+  "proximity_noise_clusters": {
+    "n_flare_sites": 15840,
+    "n_detections": 2,
+    "tolerance_km": 5.0,
+    "median_km_detections": 4.52,
+    "frac_within_tol_detections": 0.5,
+    "uniform_null": {
+      "method": "uniform in bounding box",
+      "median_km_null": 7.28,
+      "frac_within_tol_null": 0.42,
+      "enrichment": 1.19,
+      "enrichment_ci_days": [
+        0.0,
+        2.38
+      ],
+      "mannwhitney_p": 0.3083
+    },
+    "clustered_null": {
+      "method": "kernel density of 7165 wells, h = 8 km",
+      "median_km_null": 1.71,
+      "frac_within_tol_null": 0.849,
+      "enrichment": 0.59,
+      "enrichment_ci_days": [
+        0.0,
+        1.18
+      ],
+      "mannwhitney_p": 0.9299
+    },
+    "clustered_enrichment_by_bandwidth_km": {
+      "4": 0.58,
+      "16": 0.64
+    }
+  }
+}
